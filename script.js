@@ -19,3 +19,7 @@ function calculate() {
         display.value = "Error";
     }
 }
+
+function appendRoot(){
+    display.value = Math.sqrt(display.value)
+}
