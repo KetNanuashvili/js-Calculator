@@ -21,5 +21,5 @@ function calculate() {
 }
 
 function appendRoot(){
-    display.value = Math.sqrt(display.value)
+        display.value = Math.sqrt(display.value);
 }
